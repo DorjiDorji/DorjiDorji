@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DorjiDorji
 - 👀 I’m interested in Python and HTML
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on ...
+- 📗 Helpful resources(from basics to a little bit advanced): https://hourofcode.com/us, Scratch, Hackerrank, Freecodecamp, ChatGPT 
 - 📫 How to reach me dorjisiriguleng@gmail.com
 
 <!---
